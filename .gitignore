@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -25,3 +26,9 @@ hs_err_pid*
 *.pdf
 .DS_Store
 
+=======
+*.class
+*.zip
+*.pdf
+.DS_Store
+>>>>>>> ccc104bf34fcf805e4b699b6b93aafe6938735f2
